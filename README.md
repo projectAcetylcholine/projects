@@ -6,12 +6,17 @@ The primary object of the Microsoft organization is to enable every person, deve
 
 AcetylCholine is a community effort to close gaps that currently exists in awareness, deployment options as well as integration options between Open Source data projects and the Microsoft Azure ecosystem.
 
+## What projects is AcetylCholine currently focused on?
 We are currently targetting the following open source data projects in our initial efforts
 
 - Apache Kafka 
 - Apache Flink
 - Apache Pulsar
 - Apache Beam
+
+## How can I help?
+
+We are currently looking for help in development, implementation, testing and creating awareness about this effort.
 
 Please reach out to us if you have any questions, comments or suggestions
 
