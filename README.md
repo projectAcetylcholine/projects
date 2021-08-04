@@ -26,9 +26,10 @@ For the Apache Flink project, several JIRA issues are available to track upcomin
 
 
 For the Apache Beam project, several JIRA issues are available to track upcoming integrations
-- [BEAM-10443](https://issues.apache.org/jira/browse/BEAM-10443) Add Support for Azure Cognitive Search DataStream Connector 
+- [BEAM-10440](https://issues.apache.org/jira/browse/BEAM-10440) Add Support for Azure Cosmos DB DataStream
+- [BEAM-10443](https://issues.apache.org/jira/browse/BEAM-10443) Add Support for Azure Cognitive Search DataStream Connector
 - [BEAM-10441](https://issues.apache.org/jira/browse/BEAM-10441) Add Support for Azure Event Hub DataStream Connector
-- [10440](https://issues.apache.org/jira/browse/BEAM-10440) Add Support for Azure Cosmos DB DataStream
+
 ## How can I help?
 
 We are currently looking for help in development, implementation, testing and creating awareness about this effort.
