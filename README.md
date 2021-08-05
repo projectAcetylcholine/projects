@@ -21,7 +21,7 @@ For the Apache Kafka project, we are currently working on the following issues:
 
 For the Apache Flink project, several JIRA issues are available to track upcoming integrations
 - [FLINK-18562](https://issues.apache.org/jira/browse/FLINK-18562) Add Support for Azure Data Lake Store Gen 2 in Streaming File Sink 
-- [FLINK-18563](https://issues.apache.org/jira/browse/FLINK-18563)Add Support for Azure Cosmos DB DataStream Connector
+- [FLINK-18563](https://issues.apache.org/jira/browse/FLINK-18563) Add Support for Azure Cosmos DB DataStream Connector
 - [FLINK-18564](https://issues.apache.org/jira/browse/FLINK-18564) Add Support for Azure Event Hub DataStream Connector
 
 
