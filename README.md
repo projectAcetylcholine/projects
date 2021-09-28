@@ -7,6 +7,8 @@ The primary objective of the Microsoft organization is to enable every person, d
 Protect AcetylCholine is a community-driven initiative in an effort to close gaps that currently exists in awareness, deployment options as well as integration options between Open Source data projects and the Microsoft Azure ecosystem.
 
 ## Why the name AcetylCholine?
+![AcetylCholine](acetylcholine.jpg "AcetylCholine")
+
 Acetylcholine is the chief neurotransmitter of a branch of the peripheral nervous system responsible for contracting smooth muscles, dilating blood vessels and slowing our heart rates. In our nervous system there are neurons that transport signals from point to point but there are gaps known as synapses between these neurons. Acetylcholine is the neurotransmitter that helps bridge these gaps and allows for these signals to still be transmitted from neuron to neuron to and from the brain and spinal cord despite the presense of these gaps (synapses). This project was design to close any gaps that exist between the goals of our current and prospective partners/customers and the current awareness, deployment and integration options between key OSS projects focused on Event-Driven Architectures and the Microsoft Azure platform.
 
 ## What projects is AcetylCholine currently focused on?
