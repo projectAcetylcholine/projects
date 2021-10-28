@@ -29,6 +29,7 @@ For the Apache Flink project, several JIRA issues are available to track upcomin
 - [FLINK-18568](https://issues.apache.org/jira/browse/FLINK-18568) Add Support for Azure Data Lake Store Gen 2 in Streaming File Sink
 - [FLINK-18563](https://issues.apache.org/jira/browse/FLINK-18563) Add Support for Azure Cosmos DB DataStream Connector
 - [FLINK-18564](https://issues.apache.org/jira/browse/FLINK-18564) Add Support for Azure Event Hub DataStream Connector
+- [FLINK-24683](https://issues.apache.org/jira/browse/FLINK-24683) Add Support for Azure Synapse Analytics
 
 
 For the Apache Beam project, several JIRA issues are available to track upcoming integrations
